@@ -21,7 +21,7 @@ Feel free to **fork** this repository and submit **pull requests** to improve th
 
 Modify the placeholders (YOUR-GITHUB-USERNAME) with your actual GitHub username before pushing this file to GitHub. Let me know if you want to tweak or expand any section! 
 
-Contact Me :
+## Contact me :
 For any queries, suggestions, or collaborations, feel free to reach out:
 
 Email: imrealsonu@gmail.com
