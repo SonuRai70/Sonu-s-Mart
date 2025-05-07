@@ -18,4 +18,10 @@ Follow these steps to set up the project on your local machine:
 ## Contribution
 Feel free to **fork** this repository and submit **pull requests** to improve the project.
 
-Modify the placeholders (YOUR-GITHUB-USERNAME) with your actual GitHub username before pushing this file to GitHub. Let me know if you want to tweak or expand any section! 🚀
+
+Modify the placeholders (YOUR-GITHUB-USERNAME) with your actual GitHub username before pushing this file to GitHub. Let me know if you want to tweak or expand any section! 
+
+for queries:
+Email: imrealsonu@gmail.com
+GitHub Profile: https://github.com/SonuRai70
+LinkedIn (if applicable): www.linkedin.com/in/sonu-kumar-415484292
