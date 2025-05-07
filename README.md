@@ -24,6 +24,6 @@ Modify the placeholders (YOUR-GITHUB-USERNAME) with your actual GitHub username 
 ## Contact me :
 For any queries, suggestions, or collaborations, feel free to reach out:
 
-Email: imrealsonu@gmail.com
-GitHub Profile: https://github.com/SonuRai70
-LinkedIn (if applicable): www.linkedin.com/in/sonu-kumar-415484292
+-Email: imrealsonu@gmail.com
+-GitHub Profile: https://github.com/SonuRai70
+-LinkedIn (if applicable): www.linkedin.com/in/sonu-kumar-415484292
